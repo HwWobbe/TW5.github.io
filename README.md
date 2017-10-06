@@ -8,6 +8,7 @@ my public TW5
 * There seemed to be an issue with fileType, as well.
 * Check some other Users' areas to see if there is a preferred fileType
 * androidEditsFail
+* compare to the fileName for Reid @ Dg:_280
 
 Resolved:
 
