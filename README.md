@@ -1,5 +1,5 @@
 # TW5.github.io
-my public TW5
+my (proposed) public TW5
 
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
