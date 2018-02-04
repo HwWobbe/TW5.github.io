@@ -16,5 +16,4 @@ my (proposed) public TW5
 
 Resolved:
 
-* I still had trouble finding the file that was uploaded.
-* This now appears to be evident
+* I still had trouble finding the file that was uploaded.  This now appears to be evident.
