@@ -4,6 +4,7 @@ my (proposed) public TW5
 * use TiddlySpot as an interim soultion, after resolving the password issue
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
+<hr>
 * extend the current NamesPolicy to clarify the use of two character sumbolStrings to increase informationDensity
 
 <hr>
