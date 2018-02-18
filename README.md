@@ -7,6 +7,7 @@ my (proposed) public TW5
 <hr>
 
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
+* re-try working with Branches
 <hr>
 
 * Found a file, but its "too big ( @4.5 mB ) to be shown, just now".  Subsequent Delete attempts failed, until being followed by a Commit.
