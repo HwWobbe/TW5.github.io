@@ -7,6 +7,7 @@ my (proposed) public TW5
 <hr>
 
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
+* continue editing files to indicate their relative importance as a month progresses.
 * re-try working with Branches raher than just using the commitChanges control
 * re-try local syncs
 <hr>
