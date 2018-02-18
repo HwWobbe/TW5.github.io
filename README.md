@@ -7,7 +7,7 @@ my (proposed) public TW5
 <hr>
 
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
-* re-try working with Branches
+* re-try working with Branches raher than just using the Commit control
 * re-try local syncs
 <hr>
 
