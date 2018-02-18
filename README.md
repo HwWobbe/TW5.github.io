@@ -6,7 +6,7 @@ my (proposed) public TW5
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
 <hr>
 
-* extend the current NamesPolicy to clarify the use of two character sumbolStrings to increase informationDensity
+* extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
 <hr>
 
 * Found a file, but its "too big ( @4.5 mB ) to be shown, just now".  Subsequent Delete attempts failed, until being followed by a Commit.
