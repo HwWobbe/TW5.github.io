@@ -13,11 +13,12 @@ my (proposed) public TW5
 * re-try local syncs
 <hr>
 
-* Found a file, but its "too big ( @4.5 mB ) to be shown, just now".  Subsequent Delete attempts failed, until being followed by a Commit.
+* Found a file, but it's "too big ( @4.5 mB ) to be shown, just now".  Subsequent Delete attempts failed, until being followed by a Commit.
 * There seemed to be an issue with fileType, as well.
 * Check some other Users' areas to see if there is a preferred fileType
 * androidEditsFail
 * compare to the fileName for Reid @ Dg:_280
+* consider forking a working subSite
 
 Resolved:
 
