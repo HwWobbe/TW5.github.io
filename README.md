@@ -1,5 +1,5 @@
 # TW5.github.io
-my (proposed) public TW5
+my (potential) public TW5
 
 * use TiddlySpot as an interim soultion, after resolving the password issue
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
