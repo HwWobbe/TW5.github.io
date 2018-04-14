@@ -1,7 +1,7 @@
 # TW5.github.io
 my (potential) public TW5
 
-* use TiddlySpot as an interim soultion, after resolving the password issue
+* use TiddlySpot as an interim soultion, after confirming the resolution of the password issue
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
 <hr>
