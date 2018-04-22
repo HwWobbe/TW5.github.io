@@ -9,7 +9,6 @@ my (potential) public TW5
 
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
 * .. this raises Endianess issues
-* continue editing files to indicate their relative importance a month progresses.
 * re-try working with Branches rather than just using the commitChanges control
 * re-try local syncs
 <hr>
