@@ -1,7 +1,7 @@
 # TW5.github.io
 my (potential) public TW5
 
-* increasing use of *.TIDs & Bundles
+* increasing use of *.TIDs & Bundles preparing for an Image library
 * TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
 * ... this recognizes the plans to migrate more Core function to GitHub.
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
