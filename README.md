@@ -8,9 +8,9 @@ my (potential) public TW5
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
 <hr>
 
+* re-try working with Branches rather than just using the commitChanges control
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
 * .. this raises Endianess issues
-* re-try working with Branches rather than just using the commitChanges control
 * re-try local syncs
 <hr>
 
