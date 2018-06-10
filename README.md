@@ -4,6 +4,7 @@ my (potential) public TW5
 * increasing use of *.TIDs & Bundles preparing for an Image library
 * TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
 * ... this recognizes the plans to migrate more Core function to GitHub.
+* .... Pausing to assess the purchace of GitHub impacts.
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
 <hr>
