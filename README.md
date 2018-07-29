@@ -2,7 +2,7 @@
 my (potential) public TW5
 
 * increasing use of *.TIDs & Bundles preparing for an Image library
-* planning for a personal Iot with a hierarchy of thousands of processors
+* planning for a personal IoT with a hierarchy of thousands of processors
 * TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
 * ... this recognizes the plans to migrate more Core function to GitHub.
 * .... Pausing to assess the purchace of GitHub impacts.
