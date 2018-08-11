@@ -1,7 +1,8 @@
 # TW5.github.io
 my (eventual) public TW5
 
-* increasing use of "Bob", *.TIDs & Bundles preparing for an Image library
+* increasing use of "Bob"
+* *.TIDs & Bundles preparing for an Image library
 * planning for a personal IoT with a hierarchy of thousands of processors
 * TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
 * investigating meshNet
