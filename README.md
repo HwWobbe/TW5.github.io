@@ -14,7 +14,7 @@ my (eventual) public TW5
 
 * re-try working with Branches rather than just using the commitChanges control
 * extend the current NamesPolicy to clarify the use of two character symbolStrings to increase informationDensity
-* .. this raises Endianess issues
+* .. this raises Endianess issues (which I will likely resolve by ranking leftToRight, consistent with my minimalist upperLeftCorner concepts.
 * re-try local syncs
 <hr>
 
