@@ -2,6 +2,7 @@
 my (eventual) public TW5
 
 * consider a NodeJs based solution, even if that meaning hosting on another site (e.g. Azure. Hyparec, ...)
+* .. start with a new LAN server
 * increasing use of "Bob"
 * *.TIDs & Bundles preparing for an Image library
 * planning for a personal IoT with a hierarchy of thousands of processors
