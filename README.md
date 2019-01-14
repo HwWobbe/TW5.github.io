@@ -5,6 +5,8 @@
 * review possible subFolders & the recent (2019.01) increase in Private folders
 * consider a NodeJs based solution, even if that meaning hosting on another site (e.g. Azure. Hyparec, ...)
 * .. start with a new LAN server
+<hr>
+
 * increasing use of "Bob"
 * *.TIDs & Bundles preparing for an Image library
 * planning for a personal IoT with a hierarchy of thousands of processors
