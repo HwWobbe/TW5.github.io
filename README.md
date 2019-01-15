@@ -29,7 +29,7 @@
 * Check some other Users' areas to see if there is a preferred fileType
 * androidEditsFail
 * compare to the fileName for Reid @ Dg:_280
-* consider forking a working subSite
+* consider forking a working subSite/folder
 
 Resolved:
 
