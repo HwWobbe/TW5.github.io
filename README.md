@@ -11,12 +11,13 @@
 * increasing use of "Bob"
 * *.TIDs & Bundles preparing for an Image library
 * planning for a personal IoT with a hierarchy of thousands of processors
-* TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
 * investigating meshNet
 * ... this recognizes the plans to migrate more Core function to GitHub.
 * .... still considering the mid-term impacts of the purchace of GitHub.
 * reviewing https://ibnishak.github.io/t-blog/Documentation/Hello%2520There.html
 * try following hints at ... https://github.com/danielo515/TW5-auto-publish2gh-pages
+* TiddlySpot as an interim soultion, after confirming the resolution of the password issue, still has declining value
+
 <hr>
 
 * re-try working with Branches rather than just using the commitChanges control
