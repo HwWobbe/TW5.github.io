@@ -3,7 +3,7 @@
 ## (eventual) public TW5
 
 * still striving to craft an effective workflow
-* review possible subFolders & the recent (2019.01) increase in Private folders
+* review possible local Folders & the recent (2019.01) increase in Private folders
 * consider the implications of more (free) private repos
 * consider a NodeJs based solution, even if that meaning hosting on another site (e.g. Azure. Hyparec, ...)
 * .. start with a new LAN server
