@@ -2,6 +2,7 @@
 
 ## (eventual) public TW5
 
+* review the most recent Hints
 * starting to achieve an effective workflow
 * review possible local Folders & the recent (2019.01) increase in Private folders
 * consider the implications of more (free) private repos
