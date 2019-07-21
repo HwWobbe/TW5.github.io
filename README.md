@@ -4,7 +4,7 @@
 
 * review the most recent Hints, once v.5.1.20 is released
 * * this material should be collected beforehand
-* starting to achieve an effective workflow
+* starting to achieve an effective workflow using !!.put
 * review possible local Folders & the recent (2019.01) increase in Private folders
 * consider the implications of more (free) private repos
 * consider a NodeJs based solution, even if that meaning hosting on another site (e.g. Azure. Hyparec, ...)
