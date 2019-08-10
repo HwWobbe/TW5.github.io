@@ -1,5 +1,7 @@
 # TW5.github.io
 
+Try using RNA to access individual files in a more structured manner.
+
 ## (eventual) public TW5
 
 * review the most recent Hints, now that Tw.5.1.20 is released
