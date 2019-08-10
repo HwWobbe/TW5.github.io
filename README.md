@@ -1,6 +1,6 @@
 # TW5.github.io
 
-Try using RNA to access individual files in a more structured manner.
+* Try using RNA to access individual files in a more structured manner.
 
 ## (eventual) public TW5
 
