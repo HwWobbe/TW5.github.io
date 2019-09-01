@@ -5,7 +5,8 @@
 ## (eventual) public TW5
 
 * review the most recent Hints, now that Tw.5.1.20 is released
-* * this material should be collected beforehand
+* * pertinent material should be collected beforehand
+* * wait for V.5.1.21
 * starting to achieve an effective workflow using !!.put
 * review possible local Folders & the recent (2019.01) increase in Private folders
 * consider the implications of more (free) private repos
