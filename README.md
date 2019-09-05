@@ -1,6 +1,7 @@
 # TW5.github.io
 
 * Try using RNA to access individual files in a more structured manner.
+* * the goal should be to trigger reminder Aerts
 
 ## (eventual) public TW5
 
