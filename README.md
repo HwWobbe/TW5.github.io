@@ -1,5 +1,6 @@
 # TW5.github.io
 
+* tiddlyServer2....  be useful in in my designs.
 * Try using RNA to access individual files in a more structured manner.
 * * the goal should be to trigger reminder Aerts
 
