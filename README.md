@@ -1,5 +1,7 @@
 # TW5.github.io
 
+* try using the PbWorks Files facility.
+
 * tiddlyServer2....  could be useful in my designs.
 * distributing Curbside as an email attachment for the moment
 * Try using RNA to access individual files in a more structured manner.
