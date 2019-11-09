@@ -1,7 +1,7 @@
 # TW5.github.io
 
 * try using the PbWorks Files facility to host a TwVv TwV(iew v=romanNumeral5)
-* * a successor Task is uploading JSON MicroConent.
+* * a predesessor Task is uploading JSON MicroConent.
 
 * tiddlyServer2....  could be useful in my designs.
 * distributing Curbside as an email attachment for the moment
