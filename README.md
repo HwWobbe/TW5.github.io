@@ -4,6 +4,7 @@
 * 2020.02.29: revisit this pages
 * try using the PbWorks Files facility to host a TwVv TwV(iew v=romanNumeral5)
 * * a predecessor Task is uploading JSON MicroConent.
+* * this works, but only as a download option due to file files.
 
 * tiddlyServer2....  could be useful in my designs.
 * distributing Curbside as an email attachment for the moment
