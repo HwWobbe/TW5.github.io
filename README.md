@@ -1,7 +1,7 @@
 # TW5.github.io
 
 * an interesting project from https://github.com/maxboeck
-* * ...
+* * ... 2020.05.15: start integrating the NotWords dictionaries.
 * 2020.02.29: revisit pages
 * try using the PbWorks Files facility to host a TwVv TwV(iew v=romanNumeral5)
 * * a predecessor Task is uploading JSON MicroConent.
