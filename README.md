@@ -2,7 +2,9 @@
 
 * an interesting project from https://github.com/maxboeck
 * * 2020.05.15: start integrating the NotWords dictionaries.
-* * work towards as effective Commit methodology
+* * work towards:
+* * * a proper livePage and StaticPage(s)
+* * * an effective Commit methodology
 * 2020.02.29: revisit pages
 * try using the PbWorks Files facility to host a TwVv TwV(iew v=romanNumeral5)
 * * a predecessor Task is uploading JSON MicroConent.
