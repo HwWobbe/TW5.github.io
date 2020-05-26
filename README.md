@@ -1,7 +1,7 @@
 # TW5.github.io
 
 * 2020.05.17: via Azure may  be viable
-* * tests being planned
+* * tests being planned for 2020-0
 * an interesting project from https://github.com/maxboeck
 * * 2020.05.15: start integrating the NotWords dictionaries.
 * * work towards:
