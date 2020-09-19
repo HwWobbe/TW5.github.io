@@ -1,6 +1,7 @@
 # TW5.github.io
 
-* 2020.09.06: more than time to re-visit this
+* 2020.09.19: Recent TiddlyWiki enhancements may make it easier to provide JSON packages that are easier to mainatin that traditional Plugins.
+* 2020.09.06: It's more than time to re-visit this.
 * 2020.07.13: upload a Standard Empty.TiddlyWiki5 file prior to testing with files that contain the Business MicroContent.
 * 2020.05.17: via Azure may  be viable
 * * tests being planned for 2020-05
